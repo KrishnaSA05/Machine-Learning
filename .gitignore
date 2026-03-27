@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
+dist/
+build/
+
+# Model weights
+*.pt
+*.onnx
+
+# Output files
+#output/*.jpg
+#output/*.avi
+#output/*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data (large files — add your own data locally)
+data/img/
+data/velodyne/
+data/calib/
+data/label/
+
+NLP/Cell_Phones_and_Accessories_5.json
