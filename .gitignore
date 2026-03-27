@@ -27,3 +27,4 @@ data/calib/
 data/label/
 
 NLP/Cell_Phones_and_Accessories_5.json
+NLP/word2vec-amazon-cell-accessories-reviews-short.model
