@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a2ccd3-fb2f-44a6-ac3f-a5486c9ace7c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/01_python_int_prep.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python/01_python_int_prep.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="a3a2ccd3-fb2f-44a6-ac3f-a5486c9ace7c" name="Changes" comment="[+] Dialy py practice" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +67,24 @@
       <option name="presentableId" value="Default" />
       <updated>1781950898337</updated>
       <workItem from="1781950899612" duration="121000" />
-      <workItem from="1782031034344" duration="5649000" />
+      <workItem from="1782031034344" duration="6054000" />
     </task>
+    <task id="LOCAL-00001" summary="[+] Dialy py practice">
+      <option name="closed" value="true" />
+      <created>1782036740232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782036740232</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[+] Dialy py practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="[+] Dialy py practice" />
   </component>
 </project>
